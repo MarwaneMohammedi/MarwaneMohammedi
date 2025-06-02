@@ -9,7 +9,7 @@
 ---
 
 ### 🧬 About Me
-```yaml
+```yaml```
 Name: Marwane Mohammedi
 Alias: @MarwaneMohammedi
 Focus: Web3 Development & Smart Contracts
@@ -27,10 +27,6 @@ Goal: Build on-chain tools & dApps that matter
 🎯 Mission
 "I don't just use Web3 — I build it."
 
-bash
-Copy
-Edit
-$ mint dream
 > verifying contract...
 > deployed to mainnet ✅
 🔗 Let's Connect
@@ -38,4 +34,4 @@ $ mint dream
 💡 Fun Fact
 Most people wait for the future. Web3 devs deploy it.
 
-yaml ---
+yaml``` ---
