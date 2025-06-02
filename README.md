@@ -10,10 +10,10 @@
 
 ### 🧬 About Me
 ```yaml
-Name: Marwane Mohammedi
-Alias: @MarwaneMohammedi
-Focus: Web3 Development & Smart Contracts
-Goal: Build on-chain tools & dApps that matter
+   Name: Marwane Mohammedi
+   Alias: @MarwaneMohammedi
+   Focus: Web3 Development & Smart Contracts
+   Goal: Build on-chain tools & dApps that matter
 🧪 Currently learning: Solidity, Hardhat, Ethers.js, Smart Contract Security
 
 🚀 Future goals: Launch an NFT collection or DAO project
@@ -21,15 +21,22 @@ Goal: Build on-chain tools & dApps that matter
 🔍 Exploring: Ethereum, DeFi, zkTech, DAOs
 
 🛠️ Tech Stack
-<p align="center"> <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=ethereum&logoColor=yellow"/> <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white"/> <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/> </p>
+```
+<p align="center">
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=ethereum&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white"/>
+<img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
+</p>
+
 📈 GitHub Stats
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MarwaneMohammedi&theme=radical&show_icons=true" height="150"/> <img src="https://streak-stats.demolab.com/?user=MarwaneMohammedi&theme=radical" height="150"/> </p>
 🎯 Mission
 "I don't just use Web3 — I build it."
 
-bash
-Copy
-Edit
 $ mint dream
 > verifying contract...
 > deployed to mainnet ✅
