@@ -1,35 +1,42 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Psychedelic Neon" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00FFF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+Web3+Universe;Solidity+%F0%9F%92%A1+EVM+%F0%9F%93%8A+dApps+%F0%9F%9A%80+Crypto" alt="Typing SVG" />
 </p>
 
-<h1 align="center" style="color:#0ff; font-family: 'Courier New', Courier, monospace;">
-  Marwane Mohammedi - Web3 Cyberpunk Dev
-</h1>
-
-<p align="center" style="color:#f0f; font-family: 'Courier New', Courier, monospace;">
-  <em>Building the decentralized future — one smart contract at a time.</em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ethereum-%230077B5.svg?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3-%23FF0080.svg?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
-</p>
+<h1 align="center" style="color:white;">Hi, I'm Marwane 👾</h1>
+<h3 align="center">🧠 Learning Solidity | 💥 Building in Web3 | ⚡ Future Smart Contract Wizard</h3>
 
 ---
 
-### 🔮 About Me  
+### 🧬 About Me
 ```yaml```
-Alias: NeonBlock
-Mission: Warp through the Web3 matrix
-Currently Learning: Solidity, zkRollups, NFTs, DeFi protocols
-<p align="center"> <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" alt="Glitch effect" width="300"/> </p>
-🚀 Projects & Goals
-Launch my first NFT collection 🚀
+Name: Marwane Mohammedi
+Alias: @MarwaneMohammedi
+Focus: Web3 Development & Smart Contracts
+Goal: Build on-chain tools & dApps that matter
+🧪 Currently learning: Solidity, Hardhat, Ethers.js, Smart Contract Security
 
-Build a DAO for collective decision-making ⚡
+🚀 Future goals: Launch an NFT collection or DAO project
 
-Contribute to open-source Web3 tooling 🔥
+🔍 Exploring: Ethereum, DeFi, zkTech, DAOs
 
-💬 Connect with me
-<p align="center"> <a href="https://linkedin.com/in/MarwaneMohammedi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:work.mohammedimarwane@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p> ```
+🛠️ Tech Stack
+<p align="center"> <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=ethereum&logoColor=yellow"/> <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white"/> <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/> </p>
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MarwaneMohammedi&theme=radical&show_icons=true" height="150"/> <img src="https://streak-stats.demolab.com/?user=MarwaneMohammedi&theme=radical" height="150"/> </p>
+🎯 Mission
+"I don't just use Web3 — I build it."
+
+bash
+Copy
+Edit
+$ mint dream
+> verifying contract...
+> deployed to mainnet ✅
+🔗 Let's Connect
+<p align="left"> <a href="mailto:youremail@example.com" target="_blank"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a> </p>
+💡 Fun Fact
+Most people wait for the future. Web3 devs deploy it.
+
+
+---
