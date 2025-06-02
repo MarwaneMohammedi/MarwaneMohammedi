@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00FFF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+Web3+Universe;Solidity+%F0%9F%92%A1+ETH+Builder;Smart+Contract+Enthusiast" alt="Typing SVG Banner" />
 </p>
 
-<h1 align="center" style="color:white;">Hi, I'm Marwane 👾</h1>
+<h1 align="center" style="color:white;">Hi, I'm Mart1 👾</h1>
 <h3 align="center">🧠 Learning Solidity | 💥 Building in Web3 | ⚡ Future Smart Contract Wizard</h3>
 
 ---
@@ -11,7 +11,7 @@
 ### 🧬 About Me
 
 Name: Marwane Mohammedi 
-Alias: @MarwaneMohammedi
+Alias: @iiiMart1
 Focus: Web3 Development & Smart Contracts
 Goal: Build on-chain tools & dApps that matter
 🧪 Currently learning: Solidity, Hardhat, Ethers.js, Smart Contract Security
