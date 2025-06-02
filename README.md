@@ -9,7 +9,7 @@
 ---
 
 ### 🧬 About Me
-```yaml```
+```yaml
 Name: Marwane Mohammedi
 Alias: @MarwaneMohammedi
 Focus: Web3 Development & Smart Contracts
@@ -38,5 +38,4 @@ $ mint dream
 💡 Fun Fact
 Most people wait for the future. Web3 devs deploy it.
 
-
----
+yaml ---
